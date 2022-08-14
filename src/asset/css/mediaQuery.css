@@ -1,0 +1,25 @@
+@media (max-width: 575.98px) { 
+    .topTitle { font-size: 30px; }
+    .topSubTitle { font-size: 14px; }
+    .projectMedia { margin-top: 320px; }
+    .aboutMyImageBg { width: 350px; height: 350px; }
+    .aboutMeBody { margin-top: 5rem; }
+    .notfound { font-size: 30px; }
+      
+ }
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .topTitle { font-size: 40px; }
+    .topSubTitle { font-size: 17px; margin-top: 320px; }
+    .projectMedia { margin-top: 320px; }
+    .notfound { font-size: 40px; }
+ }
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .videoIcon { margin-top: 85px; }
+ }
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .videoIcon { margin-top: 85px; }
+ }
+
